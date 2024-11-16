@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN , Django , designing , python , SQL ,etc**
 
-- 📫 How to reach me **patelmeet0625@gmail.com**
+- 📫 How to reach me -> **patelmeet0625@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
