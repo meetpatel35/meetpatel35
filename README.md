@@ -7,9 +7,9 @@
 
 - 📖I’m currently pursuing B.Tech in **KJSIT(Mumbai)**
 
-- 🔖I know frameworks such as **Nodemon, pandas , bootstrap , socket.io ,react-chakra and more...**
+- 🔖I know frameworks such as **Nodemon, pandas , bootstrap , Express ,react-chakra and more...**
 
-- 🔭 I’m looking to work with companies **to increase my skillset**
+- 🔭 I’m looking to work with companies **to increase my skillsets and gain Experience**
 
 - 💬 Ask me about **MERN , Django , designing , python , SQL ,etc**
 
